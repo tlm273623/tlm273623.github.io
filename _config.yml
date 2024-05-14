@@ -18,7 +18,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Chesterfield, VA"
 resume_url: /docs/Thomas_Marshall_Resume.pdf
-avatar_image: /img/selfport.JPG
+avatar_image: /img/selfport.jpg
 
 #-------------------------------
 # Contact links

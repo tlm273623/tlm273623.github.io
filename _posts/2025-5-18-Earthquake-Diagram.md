@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tableau Earthquake Diagram
-image: "/posts/earthquake-image.png"
+image: "/posts/earthquake-image.jpg"
 tags: [AB Testing, Hypothesis Testing, Chi-Square, Python]
 ---
 

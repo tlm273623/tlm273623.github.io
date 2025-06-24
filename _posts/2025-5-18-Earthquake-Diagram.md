@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tableau Earthquake Diagram
-image: "/posts/earthquake-image.jpg"
+image: "/posts/earthquake-image.png"
 tags: [Tableau, Data Visualization]
 ---
 

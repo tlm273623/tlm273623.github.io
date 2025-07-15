@@ -23,7 +23,7 @@ avatar_image: /img/selfport.jpg
 #-------------------------------
 # Contact links
 linkedIn: "https://www.linkedin.com/in/-thomasm-/" # Add your linkedln handle
-github: "https://github.com/tlm273623"  # Add your github handle
+
 
 paginate: 6
 paginate_path: "/page/:num"

@@ -21,9 +21,8 @@ resume_url: /docs/Thomas_Marshall_Resume_2025.pdf
 avatar_image: /img/selfport.jpg
 
 #-------------------------------
-# Contact links
-linkedIn: "https://www.linkedin.com/in/-thomasm-/" # Add your linkedln handle
-
+linkedln: "https://www.linkedin.com/in/-thomasm-/" # Add your linkedln handle
+github: "https://github.com/tlm273623"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
@@ -39,7 +38,6 @@ defaults:
       layout: post
       read_time: true
       share: false
-
 
 #-------------------------------
 # Exclude from processing.
